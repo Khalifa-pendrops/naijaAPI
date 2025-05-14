@@ -1,0 +1,335 @@
+[
+  {
+    "state": "Abia",
+    "capital": "Umuahia",
+    "zone": "South East",
+    "nysc_orientation_camp": {
+      "location": "Umunna",
+      "address": "NYSC Permanent Orientation Camp, Umunna, Bende LGA, Abia State"
+    }
+  },
+  {
+    "state": "Adamawa",
+    "capital": "Yola",
+    "zone": "North East",
+    "nysc_orientation_camp": {
+      "location": "Damare",
+      "address": "NYSC Permanent Orientation Camp, Damare, Girei LGA, Adamawa State"
+    }
+  },
+  {
+    "state": "Akwa Ibom",
+    "capital": "Uyo",
+    "zone": "South South",
+    "nysc_orientation_camp": {
+      "location": "Ikot Itie Udung",
+      "address": "NYSC Orientation Camp, Ikot Itie Udung, Nsit Atai LGA, Akwa Ibom State"
+    }
+  },
+  {
+    "state": "Anambra",
+    "capital": "Awka",
+    "zone": "South East",
+    "nysc_orientation_camp": {
+      "location": "Umuawulu/Mbaukwu",
+      "address": "NYSC Permanent Orientation Camp, Umuawulu/Mbaukwu, Awka South LGA, Anambra State"
+    }
+  },
+  {
+    "state": "Bauchi",
+    "capital": "Bauchi",
+    "zone": "North East",
+    "nysc_orientation_camp": {
+      "location": "Wailo",
+      "address": "NYSC Orientation Camp, Wailo, Ganjuwa LGA, Bauchi State"
+    }
+  },
+  {
+    "state": "Bayelsa",
+    "capital": "Yenagoa",
+    "zone": "South South",
+    "nysc_orientation_camp": {
+      "location": "Kaiama",
+      "address": "NYSC Permanent Orientation Camp, Kaiama, Kolokuma/Opokuma LGA, Bayelsa State"
+    }
+  },
+  {
+    "state": "Benue",
+    "capital": "Makurdi",
+    "zone": "North Central",
+    "nysc_orientation_camp": {
+      "location": "Wannune",
+      "address": "NYSC Orientation Camp, Wannune, Tarka LGA, Benue State"
+    }
+  },
+  {
+    "state": "Borno",
+    "capital": "Maiduguri",
+    "zone": "North East",
+    "nysc_orientation_camp": {
+      "location": "Monguno",
+      "address": "NYSC Temporary Orientation Camp, Monguno, Borno State"
+    }
+  },
+  {
+    "state": "Cross River",
+    "capital": "Calabar",
+    "zone": "South South",
+    "nysc_orientation_camp": {
+      "location": "Obubra",
+      "address": "NYSC Orientation Camp, Obubra, Cross River State"
+    }
+  },
+  {
+    "state": "Delta",
+    "capital": "Asaba",
+    "zone": "South South",
+    "nysc_orientation_camp": {
+      "location": "Issele-Uku",
+      "address": "NYSC Orientation Camp, Issele-Uku, Aniocha North LGA, Delta State"
+    }
+  },
+  {
+    "state": "Ebonyi",
+    "capital": "Abakaliki",
+    "zone": "South East",
+    "nysc_orientation_camp": {
+      "location": "Afikpo",
+      "address": "NYSC Orientation Camp, Macgregor College, Afikpo, Ebonyi State"
+    }
+  },
+  {
+    "state": "Edo",
+    "capital": "Benin City",
+    "zone": "South South",
+    "nysc_orientation_camp": {
+      "location": "Okada",
+      "address": "NYSC Permanent Orientation Camp, Okada, Ovia North-East LGA, Edo State"
+    }
+  },
+  {
+    "state": "Ekiti",
+    "capital": "Ado-Ekiti",
+    "zone": "South West",
+    "nysc_orientation_camp": {
+      "location": "Ise/Orun-Emure",
+      "address": "NYSC Permanent Orientation Camp, Ise/Orun-Emure, Ekiti State"
+    }
+  },
+  {
+    "state": "Enugu",
+    "capital": "Enugu",
+    "zone": "South East",
+    "nysc_orientation_camp": {
+      "location": "Awgu",
+      "address": "NYSC Orientation Camp, Awgu LGA, Enugu State"
+    }
+  },
+  {
+    "state": "Gombe",
+    "capital": "Gombe",
+    "zone": "North East",
+    "nysc_orientation_camp": {
+      "location": "Amada",
+      "address": "NYSC Orientation Camp, Amada, Akko LGA, Gombe State"
+    }
+  },
+  {
+    "state": "Imo",
+    "capital": "Owerri",
+    "zone": "South East",
+    "nysc_orientation_camp": {
+      "location": "Eziama Obaire",
+      "address": "NYSC Permanent Orientation Camp, Eziama Obaire, Nkwerre LGA, Imo State"
+    }
+  },
+  {
+    "state": "Jigawa",
+    "capital": "Dutse",
+    "zone": "North West",
+    "nysc_orientation_camp": {
+      "location": "Fanisau",
+      "address": "NYSC Orientation Camp, Fanisau, Dutse LGA, Jigawa State"
+    }
+  },
+  {
+    "state": "Kaduna",
+    "capital": "Kaduna",
+    "zone": "North West",
+    "nysc_orientation_camp": {
+      "location": "Kubwa",
+      "address": "NYSC Orientation Camp, Kaduna-Kubwa Road, Kaduna State"
+    }
+  },
+  {
+    "state": "Kano",
+    "capital": "Kano",
+    "zone": "North West",
+    "nysc_orientation_camp": {
+      "location": "Karaye",
+      "address": "NYSC Orientation Camp, Karaye LGA, Kano State"
+    }
+  },
+  {
+    "state": "Katsina",
+    "capital": "Katsina",
+    "zone": "North West",
+    "nysc_orientation_camp": {
+      "location": "Mani Road",
+      "address": "NYSC Orientation Camp, Mani Road, Katsina State"
+    }
+  },
+  {
+    "state": "Kebbi",
+    "capital": "Birnin Kebbi",
+    "zone": "North West",
+    "nysc_orientation_camp": {
+      "location": "Dakingari",
+      "address": "NYSC Orientation Camp, Dakingari, Kebbi State"
+    }
+  },
+  {
+    "state": "Kogi",
+    "capital": "Lokoja",
+    "zone": "North Central",
+    "nysc_orientation_camp": {
+      "location": "Asaya",
+      "address": "NYSC Orientation Camp, Asaya, Kabba LGA, Kogi State"
+    }
+  },
+  {
+    "state": "Kwara",
+    "capital": "Ilorin",
+    "zone": "North Central",
+    "nysc_orientation_camp": {
+      "location": "Yikpata",
+      "address": "NYSC Orientation Camp, Yikpata, Edu LGA, Kwara State"
+    }
+  },
+  {
+    "state": "Lagos",
+    "capital": "Ikeja",
+    "zone": "South West",
+    "nysc_orientation_camp": {
+      "location": "Ipaja",
+      "address": "NYSC Orientation Camp, Iyana Ipaja, Lagos State"
+    }
+  },
+  {
+    "state": "Nasarawa",
+    "capital": "Lafia",
+    "zone": "North Central",
+    "nysc_orientation_camp": {
+      "location": "Keffi",
+      "address": "NYSC Orientation Camp, Keffi, Nasarawa State"
+    }
+  },
+  {
+    "state": "Niger",
+    "capital": "Minna",
+    "zone": "North Central",
+    "nysc_orientation_camp": {
+      "location": "Paiko",
+      "address": "NYSC Orientation Camp, Paiko, Niger State"
+    }
+  },
+  {
+    "state": "Ogun",
+    "capital": "Abeokuta",
+    "zone": "South West",
+    "nysc_orientation_camp": {
+      "location": "Sagamu",
+      "address": "NYSC Orientation Camp, Sagamu, Ogun State"
+    }
+  },
+  {
+    "state": "Ondo",
+    "capital": "Akure",
+    "zone": "South West",
+    "nysc_orientation_camp": {
+      "location": "Ikare-Akoko",
+      "address": "NYSC Orientation Camp, Ikare-Akoko, Ondo State"
+    }
+  },
+  {
+    "state": "Osun",
+    "capital": "Osogbo",
+    "zone": "South West",
+    "nysc_orientation_camp": {
+      "location": "Ede",
+      "address": "NYSC Orientation Camp, Ede North LGA, Osun State"
+    }
+  },
+  {
+    "state": "Oyo",
+    "capital": "Ibadan",
+    "zone": "South West",
+    "nysc_orientation_camp": {
+      "location": "Iseyin",
+      "address": "NYSC Orientation Camp, Iseyin, Oyo State"
+    }
+  },
+  {
+    "state": "Plateau",
+    "capital": "Jos",
+    "zone": "North Central",
+    "nysc_orientation_camp": {
+      "location": "Mangu",
+      "address": "NYSC Orientation Camp, Mangu, Plateau State"
+    }
+  },
+  {
+    "state": "Rivers",
+    "capital": "Port Harcourt",
+    "zone": "South South",
+    "nysc_orientation_camp": {
+      "location": "Nonwa-Gbam",
+      "address": "NYSC Orientation Camp, Nonwa-Gbam, Tai LGA, Rivers State"
+    }
+  },
+  {
+    "state": "Sokoto",
+    "capital": "Sokoto",
+    "zone": "North West",
+    "nysc_orientation_camp": {
+      "location": "Wamakko",
+      "address": "NYSC Orientation Camp, Wamakko, Sokoto State"
+    }
+  },
+  {
+    "state": "Taraba",
+    "capital": "Jalingo",
+    "zone": "North East",
+    "nysc_orientation_camp": {
+      "location": "Sibre",
+      "address": "NYSC Orientation Camp, Sibre, Taraba State"
+    }
+  },
+  {
+    "state": "Yobe",
+    "capital": "Damaturu",
+    "zone": "North East",
+    "nysc_orientation_camp": {
+      "location": "Dazigau",
+      "address": "NYSC Orientation Camp, Dazigau, Nangere LGA, Yobe State"
+    }
+  },
+  {
+    "state": "Zamfara",
+    "capital": "Gusau",
+    "zone": "North West",
+    "nysc_orientation_camp": {
+      "location": "Tsafe",
+      "address": "NYSC Orientation Camp, Tsafe LGA, Zamfara State"
+    }
+  },
+  {
+    "state": "Federal Capital Territory",
+    "capital": "Abuja",
+    "zone": "North Central",
+    "nysc_orientation_camp": {
+      "location": "Kubwa",
+      "address": "NYSC Orientation Camp, Kubwa, Bwari Area Council, FCT"
+    }
+  }
+]
