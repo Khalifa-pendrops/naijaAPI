@@ -2,6 +2,14 @@
 
 This is a simple Node.js + Express + MongoDB project that seeds all Nigerian states (including their capital cities, geopolitical zones, and NYSC orientation camp details) into MongoDB and serves them via a RESTful API.
 
+---
+
+## Base URL:
+
+https://naijaapi.onrender.com
+
+---
+
 ## Features
 
 - List of all 36 Nigerian states + FCT
@@ -32,7 +40,7 @@ cd nigerian-states-api
 
 ---
 
-### 2. Install Dependencies 
+### 2. Install Dependencies
 
 ```
 npm install
@@ -60,7 +68,7 @@ node seed.js
 
 ```
 
-This should *nigeriaStates.json* and populates your MongoDB collection.
+This should _nigeriaStates.json_ and populates your MongoDB collection.
 
 ---
 
@@ -83,5 +91,3 @@ node server.js
    /api/v1/states/:stateName
 
 ---
-
-
