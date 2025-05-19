@@ -83,6 +83,8 @@ node server.js
 
 ## API Endpoints
 
+Base URL: https://naijaapi.onrender.com
+
 1. method: GET
    /api/v1/states
    this gets all states
